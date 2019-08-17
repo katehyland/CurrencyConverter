@@ -1,0 +1,11 @@
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp2.1/Deliverable1.deps.json
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp2.1/Deliverable1.runtimeconfig.json
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp2.1/Deliverable1.runtimeconfig.dev.json
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp2.1/Deliverable1.dll
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp2.1/Deliverable1.pdb
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp2.1/Deliverable1.csprojAssemblyReference.cache
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp2.1/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp2.1/Deliverable1.AssemblyInfoInputs.cache
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp2.1/Deliverable1.AssemblyInfo.cs
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp2.1/Deliverable1.dll
+/Users/khyland/Documents/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp2.1/Deliverable1.pdb
